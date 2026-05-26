@@ -1,0 +1,21 @@
+Devoir N°1
+1. Creer un compte github.
+2. Deployez le projets COURS2 sur github.
+3. Accedez a la page.
+
+Devoir N°2
+1• Conception visuelle : Créer une interface de jeu moderne et esthétique.
+2• Écran d'accueil : Afficher une interface de démarrage avec le message : 
+« Lancer le jeu » pour débuter la partie.
+3• Mécanique de jeu :
+• Une fois le jeu lancé, afficher un nombre aléatoire compris entre 1 et 10.
+• Le nombre doit changer et s'afficher toutes les 500 ms.
+• Contrôles : Ajouter un pavé numérique de 1 à 10 permettant de sélectionner 
+le nombre correspondant à celui affiché.
+4• Système de score : Le score augmente si le joueur choisit le bon nombre ; 
+il reste inchangé si le nombre choisi est incorrect.
+5• Durée et fin de partie :
+• La partie dure 1 minute, avec un compte à rebours de 60 à 0 secondes.
+• À la fin du temps imparti, afficher le message : « Fin du jeu ».
+
+Examen finale
